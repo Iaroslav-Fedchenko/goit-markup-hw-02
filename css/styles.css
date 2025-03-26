@@ -1,0 +1,36 @@
+ .page-header {
+
+ }
+body {
+    font-family:Roboto, sans-serif;
+    color:2E2F42;
+}
+a {
+    text-decoration: none;
+  }
+  ul, ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .title {
+    color:2E2F42;
+    font-weight: 700;
+    font-size: 36px;
+  }
+  .button {
+    color: aquamarine;
+  }
+  .page-title {
+    color:white;
+    font-weight: 700;
+     
+/* line-height: 60px; */ 
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+  }
+  .titulo {
+    background-color:#2e2f42;
+  }
+ 
