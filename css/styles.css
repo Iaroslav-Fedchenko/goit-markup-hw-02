@@ -5,7 +5,7 @@ body {
     background-color:#FFFFFF;
 }
 .logo {
-    font-family:Raleway;
+    font-family:Raleway, sans-serif;
     font-weight:700;
     font-size:18px;
     line-height:1.17;
@@ -64,11 +64,11 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
+    cursor: pointer;
 }
 .boton:hover,
 .boton:focus {
     color:#404bbf;
-    cursor: pointer;
 }
 .list-team {
     font-weight: 500;
