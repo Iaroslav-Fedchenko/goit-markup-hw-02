@@ -68,7 +68,7 @@ body {
 }
 .boton:hover,
 .boton:focus {
-    color:#404BBF;
+    background-color:#404BBF;
 }
 .list-team {
     font-weight: 500;
@@ -84,7 +84,7 @@ body {
     color: #434455;
 }
 .section-app {
-    background-color: #f4f4fd;
+    background-color: #F4F4Fd;
 }
 .title {
     font-size: 36px;
