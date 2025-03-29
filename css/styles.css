@@ -43,7 +43,7 @@ body {
 .link:focus {
     color: #404bbf;
 }
-.titulo {
+.title-section {
     background-color: #2e2f42;
 }
 .page-title {
@@ -94,7 +94,7 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.img {
+.imgg {
     background-color: #FFFFFF;
 }
 .list-par {
